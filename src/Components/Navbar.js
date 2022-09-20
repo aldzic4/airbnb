@@ -6,7 +6,7 @@ import '../index.css'
 export default function Navbar() {
   return ( 
     <nav >
-        <img src={logo} alt="Slika logo AIRBNB"/>
+        <img className="nav--logo " src={logo} alt="Slika logo AIRBNB"/>
     </nav>
   )
 
