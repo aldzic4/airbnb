@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./Components/Navbar";
 
 
-function App() {
+export default function App() {
   return (
     <div>
       <Navbar />
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+
