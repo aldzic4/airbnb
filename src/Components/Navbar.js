@@ -9,5 +9,4 @@ export default function Navbar() {
         <img className="nav--logo " src={logo} alt="Slika logo AIRBNB"/>
     </nav>
   )
-
 }
